@@ -1,6 +1,6 @@
 <?php
 
-$botToken = "8114965260:AAG_F37r1b8fc5ZZ3TAhZAtcgpLutSefL6Y "; // Replace with your bot token
+$botToken = "8125528473:AAHG-MwfHugIu2EVufOcgVLKJKzKbtZHRSo"; // Replace with your bot token
 $groupId = "-1002321042237"; // Your Telegram group ID
 
 $update = json_decode(file_get_contents("php://input"), TRUE);
